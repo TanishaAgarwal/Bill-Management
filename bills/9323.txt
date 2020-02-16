@@ -1,0 +1,20 @@
+	 Welcome to LN Timber
+
+ Bill Number: 9323
+ Customer Name: Tanisha Agarwal
+ Phone Number: 9998877766
+==================================
+ Products		Qty	Price
+==================================
+ Face Cream		1	 Rs 100.0
+ Face Wash		1	 Rs 120.0
+ Body Lotion		1	 Rs 180.0
+ Rice		2	 Rs 160.0
+ Daal		1	 Rs 90.0
+ Limca		1	 Rs 60.0
+----------------------------------
+ Cosmectic Tax			 Rs 20.0
+ Grocery Tax			 Rs 25.0
+ Soft Drink Tax			 Rs 3.0
+----------------------------------
+ Total Price			 Rs 758.0
